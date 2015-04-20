@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/thomazpadilha/GenericUtilities.Extensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Versão inicial do pacote.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Extensões Extension Methods Métodos Utilitários Util Utilities</tags>
+  </metadata>
+</package>
