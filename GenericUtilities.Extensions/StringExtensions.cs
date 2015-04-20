@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace Tel.Extensions
+namespace GenericUtilities.Extensions
 {
     /// <summary> Conjunto de métodos de extensão da classe String para facilitar o uso de strings </summary>
     public static class StringExtensions
